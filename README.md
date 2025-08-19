@@ -12,7 +12,8 @@
 - 🔄 Automating workflows using **n8n** integrated with AI & APIs  
 - 📊 Designing **data pipelines** with **Apache Airflow** & **Apache NiFi**  
 - 🌍 Experienced in **Blockchain, Web3, and Smart Contract development**  
-- 📱 Senior-level expertise in **Flutter mobile applications**  
+- 📱 Senior-level expertise in **Flutter mobile applications**
+- ⚡ Working with **device-level automation**: MTK & Intel-based systems, firmware testing, and scripting inside machines  
 
 ---
 
@@ -35,7 +36,13 @@
 - **Mobile:** Flutter (Senior Experience), React Native  
 
 **🔹 Blockchain / Web3**  
-- Ethereum, Solidity, Web3.js, Ethers.js  
+- Ethereum, Solidity, Web3.js, Ethers.js
+
+**🔹 Device Engineering / Firmware**  
+- MTK & Intel-based devices  
+- Firmware flashing, downgrade/upgrade testing  
+- Writing automation scripts inside machines (OpenWRT, custom firmware, CLI tools)  
+- Device networking: NAT, Firewall, Proxy, Bridge configurations 
 
 **🔹 DevOps / Tools**  
 - Docker, Nginx, GitHub Actions, MongoDB, PostgreSQL  
