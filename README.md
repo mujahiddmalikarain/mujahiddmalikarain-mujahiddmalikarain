@@ -23,7 +23,13 @@
 - ML, Deep Learning, Neural Networks, Transformers  
 - HuggingFace, PyTorch, TensorFlow  
 - LangChain, LangGraph, RAG  
-- Model Fine-Tuning (LoRA, Transfer Learning)  
+- Model Fine-Tuning (LoRA, Transfer Learning)
+  
+
+**🔹 Data Scraping / Data Collection**  
+- Python (BeautifulSoup, Scrapy, Requests)   
+- APIs & Webhooks integration  
+- Cleaning & Structuring scraped data for ML pipelines 
 
 **🔹 Workflow Automation & Data Engineering**  
 - n8n, CrewAI, Zapier  
