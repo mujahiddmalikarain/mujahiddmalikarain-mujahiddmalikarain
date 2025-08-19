@@ -33,7 +33,11 @@
 **🔹 Software Development**  
 - **Frontend:** React, Next.js, Material-UI, TailwindCSS  
 - **Backend:** Node.js, NestJS, Express.js,Fast Api
-- **Mobile:** Flutter (Senior Experience), React Native  
+- **Mobile:** Flutter (Senior Experience), React Native
+
+**🔹 Vector Databases**  
+- Pinecone   
+- ChromaDB  
 
 **🔹 Blockchain / Web3**  
 - Ethereum, Solidity, Web3.js, Ethers.js
